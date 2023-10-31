@@ -1,0 +1,41 @@
+section {
+   text-align: center;
+   margin:15%;
+   padding: 20px;
+   height: 450px;
+   width: 60%;
+   background: rgb(219, 219, 219);
+   /* background-color: rgba(229, 227, 240, 0.664); */
+   box-shadow: 0 4px 8px 0 rgb(219, 219, 219);
+   font-size: 30px;
+}
+
+section span {
+    font-size: 100px;
+    font-weight: 100;
+}
+
+section div {
+    font-size: 100px;
+}
+
+button {
+    border: none;
+    font-size: xx-large;
+    color: white;
+    padding: 10px;
+    gap: 10px;
+}
+
+section h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+section span {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 150px;
+    
+}
